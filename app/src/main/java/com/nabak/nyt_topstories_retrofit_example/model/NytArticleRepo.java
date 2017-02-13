@@ -15,7 +15,7 @@ import retrofit2.http.Query;
  */
 
 public class NytArticleRepo {
-
+//
     @SerializedName("last_updated") String last_updated;
     @SerializedName("num_results") Integer num_results;
 

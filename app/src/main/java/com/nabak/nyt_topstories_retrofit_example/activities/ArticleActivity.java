@@ -14,7 +14,7 @@ import com.nabak.nyt_topstories_retrofit_example.model.NytArticleRepo;
  */
 
 public class ArticleActivity extends Activity {
-
+//
     private ProgressDialog progressDialog;
 
     @Override
